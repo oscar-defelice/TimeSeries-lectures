@@ -8,13 +8,14 @@ This is a series of notebooks to support lectures on _Time series analysis and f
 
 ## Content of Lectures
 
-0. Statistics Review 📈
-1. Pandas for Time Series Analysis 📊
-2. Time Series and Visualisation tools 🖍️
-3. Time Series manipulations and operations 🧮
-4. Time Series decomposition 🔪
-5. Time Series forecast I 🔭
-6. Time Series forecast II 🕸️
+0. [Statistics Review 📈](https://github.com/oscar-defelice/TimeSeries-lectures/blob/main/0.TimeSeries-StatisticsReview.ipynb)
+1. [Pandas for Time Series Analysis](https://github.com/oscar-defelice/TimeSeries-lectures/blob/main/01.TimeSeries-pandas.ipynb) 📊
+2. [Time Series and Visualisation tools](https://github.com/oscar-defelice/TimeSeries-lectures/blob/main/02.TimeSeries-Visualisation.ipynb) 🖍️
+3. [Time Series manipulations and operations](https://github.com/oscar-defelice/TimeSeries-lectures/blob/main/03.TimeSeries-Operations.ipynb) 🧮
+4. [Time Series decomposition](https://github.com/oscar-defelice/TimeSeries-lectures/blob/main/04.TimeSeries-Decomposition.ipynb) 🔪
+5. [Time Series forecast I](https://github.com/oscar-defelice/TimeSeries-lectures/blob/main/05.TimeSeries-Forecast.ipynb) 🔭
+6. [Time Series forecast II](https://github.com/oscar-defelice/TimeSeries-lectures/blob/main/06.TimeSeries-RNN.ipynb) 🕸️
+7. [Time Series forecast III](https://github.com/oscar-defelice/TimeSeries-lectures/blob/main/07.TimeSeries-LSTM.ipynb) 🕷️️
 
 ---
 
