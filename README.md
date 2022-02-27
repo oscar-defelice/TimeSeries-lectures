@@ -18,6 +18,7 @@ This is a series of notebooks to support lectures on _Time series analysis and f
 7. [Time Series forecast III](https://github.com/oscar-defelice/TimeSeries-lectures/blob/main/07.TimeSeries-LSTM.ipynb) 🕷️️
 
 **Bonus**: you can find a pdf of the slides I used in the course [here](https://github.com/oscar-defelice/TimeSeries-lectures/blob/main/slides/TimeSeries.pdf).
+
 ---
 
 ## Install requirements
