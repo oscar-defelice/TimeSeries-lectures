@@ -40,9 +40,28 @@ You can use _Binder_, to interact with notebooks and play with the code and the 
 <a href = https://mybinder.org/v2/gh/oscar-defelice/TimeSeries-lectures/HEAD?urlpath=lab> <img src="https://mybinder.org/badge_logo.svg"> </a>
 </p>
 
+---
+
+### Your lecturer
+#### [Oscar de Felice](https://oscar-defelice.github.io/)
+
+<a href="https://oscar-defelice.github.io/" target="_blank" rel="that's me!">![Oscar](https://oscar-defelice.github.io/images/OscarAboutMe.png)</a>
+
+I am a theoretical physicist, a passioned programmer and an AI curious.
+
+I write medium articles (with very little amount of regularity), you can read them [here](https://oscar-defelice.medium.com/).
+I also have a [github profile](https://github.com/oscar-defelice) where I store my personal open-source projects.
+
+📫 [Reach me!](mailto:oscar.defelice@gmail.com)
+
+[![github](https://img.shields.io/github/stars/oscar-defelice?label=GitHub&style=social)](https://github.com/oscar-defelice)
+[![Website](https://img.shields.io/badge/oscar--defelice-oscar-orange?style=plastic&logo=netlify&logoColor=informational&link=oscar-defelice.github.io)](https://oscar-defelice.github.io)
+[![Twitter Badge](https://img.shields.io/badge/-@OscardeFelice-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/oscardefelice)](https://twitter.com/OscardeFelice)
+[![Linkedin Badge](https://img.shields.io/badge/-oscardefelice-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/oscar-de-felice-5ab72383/)](https://linkedin.com/in/oscar-de-felice-5ab72383/)
+
 ### Buy me a coffee
 
-If you like these lectures, consider to buy [me a coffee ☕️ ](https://github.com/sponsors/oscar-defelice)!
+If you like these lectures, consider to buy [me a coffee ☕️ ](https://github.com/sponsors/oscar-defelice) or a [slice of pizza 🍕](https://github.com/sponsors/oscar-defelice)!
 
 <p align="center">
 <img src="images/breakfast.gif">
