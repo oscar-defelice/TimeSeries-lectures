@@ -17,6 +17,7 @@ This is a series of notebooks to support lectures on _Time series analysis and f
 6. [Time Series forecast II](https://github.com/oscar-defelice/TimeSeries-lectures/blob/main/06.TimeSeries-RNN.ipynb) 🕸️
 7. [Time Series forecast III](https://github.com/oscar-defelice/TimeSeries-lectures/blob/main/07.TimeSeries-LSTM.ipynb) 🕷️️
 8. [Time Series with Transformers](https://github.com/oscar-defelice/TimeSeries-lectures/blob/main/08.TimeSeries-Transformers.ipynb) 🤖
+9. [Time Series with Transformers](https://github.com/oscar-defelice/TimeSeries-lectures/blob/main/09.TimeSeries-TransformersDarts.ipynb) 🎯
 
 **Bonus**: you can find a pdf of the slides I used in the course [here](https://github.com/oscar-defelice/TimeSeries-lectures/blob/main/slides/TimeSeries.pdf).
 
