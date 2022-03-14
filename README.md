@@ -38,9 +38,9 @@ This installs all the packages the code in this repository needs.
 
 You can use _Binder_, to interact with notebooks and play with the code and the exercises.
 
-<p align="center">
-<a href = https://mybinder.org/v2/gh/oscar-defelice/TimeSeries-lectures/HEAD?urlpath=lab> <img src="https://mybinder.org/badge_logo.svg"> </a>
-</p>
+<a href = "https://mybinder.org/v2/gh/oscar-defelice/TimeSeries-lectures/HEAD?urlpath=lab"> 
+  <img src="https://mybinder.org/badge_logo.svg" align="center"> 
+</a>
 
 ---
 
