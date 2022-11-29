@@ -4,6 +4,14 @@ This is a series of notebooks to support lectures on _Time series analysis and f
 
 ![](https://user-images.githubusercontent.com/49638680/154160268-cf39a1ec-3557-4940-8853-d06fc7a79acf.png)
 
+This is part of a series of other lectures modules on
+
+1. [Introduction to Data Science](https://oscar-defelice.github.io/DSAcademy-lectures) 🧮
+2. [Statistical Learning](https://oscar-defelice.github.io/ML-lectures) 📈
+3. [Deep Learning](https://oscar-defelice.github.io/DeepLearning-lectures) 🦾
+4. [Computer Vision Hands-On](https://oscar-defelice.github.io/Computer-Vision-Hands-on) 🕶️
+5. [Recommender Systems](https://oscar-defelice.github.io/Recommender-Systems-Course) 🚀
+
 ---
 
 ## Content of Lectures
